@@ -76,3 +76,33 @@ view - https://yanniro2.github.io/FrontEndMentor-Challange16/
 ## Design
 ![Sample](./imgs/6-desktop-preview.jpg)
 view - https://yanniro2.github.io/FrontEndMentor-Challange17/
+
+# Intro component with sign-up form
+
+## Skills
+ - Html
+ - CSS
+ - JavaScript 
+
+## Frameworks
+- React Js
+- TailwindCSS
+
+## Design
+![Sample](./imgs/8-desktop-preview.jpg)
+view - https://github.com/yanniro2/FrontEndMentor-Challange14/
+
+# Four card feature section
+
+## Skills
+ - Html
+ - CSS
+ - JavaScript 
+
+## Frameworks
+- React Js
+- TailwindCSS
+
+## Design
+![Sample](./imgs/9-desktop-preview.jpg)
+view - https://yanniro2.github.io/FrontEndMentor-Challange13/
