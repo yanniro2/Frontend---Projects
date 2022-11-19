@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Frontend Projects}
+# Frontend Projects 
 These portfolios can show my Skills and Ability for your Suitable matches projects as well
 
 # Time tracking dashboard
@@ -15,6 +15,6 @@ These portfolios can show my Skills and Ability for your Suitable matches projec
 - TailwindCSS
 
 ## Design
-![./imgs/1-desktop-preview.jpg]
+!(./imgs/1-desktop-preview.jpg)
 view - https://yanniro2.github.io/FrontEndMentor-Challange23/
 </snippet>
