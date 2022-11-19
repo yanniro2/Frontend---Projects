@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # Frontend Projects 
 These portfolios can show my Skills and Ability for your Suitable matches projects as well
 
@@ -15,6 +13,5 @@ These portfolios can show my Skills and Ability for your Suitable matches projec
 - TailwindCSS
 
 ## Design
-!(./imgs/1-desktop-preview.jpg)
+![Sample](./imgs/1-desktop-preview.jpg)
 view - https://yanniro2.github.io/FrontEndMentor-Challange23/
-</snippet>
